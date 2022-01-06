@@ -118,7 +118,7 @@ string BINtoHEX_Table(string num)
                         {
                             BIN_Num += HEXtoBIN_Table(HEX_Num[i]);
                         }
-                        cout<<BIN_Num<<"in Binary is"<<BIN_Num<<endl<<endl;
+                        cout<<HEX_Num<<"in Binary is"<<BIN_Num<<endl<<endl;
                     }
                     else if(input==4)
                     {
